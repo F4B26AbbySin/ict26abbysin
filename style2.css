@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box;}
+body{font-family:monospace;width:60%;margin-left: auto;margin-right: auto;}	
+header{background-color: Khaki ;font-size:20px;text-align: center;padding:15px;}
+nav{background-color:OldLace;padding:23px;font-size:18px;text-align: center;}
+article{background-color:SandyBrown;font-size:18px;text-align: justify;padding:10px;}
+a{display: inline-block;}
+a:hover{background-color: LightGoldenRodYellow;color:DimGrey;}
+footer {background-color:PeachPuff;font-size:16px;color:black;padding: 5px;text-align: center;}
+img{width:100%; margin-left: auto;margin-right: auto}

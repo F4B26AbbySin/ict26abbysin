@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box;}
+body{font-family:monospace;width:60%;margin-left: auto;margin-right: auto;}	
+header{background-color:RebeccaPurple;color:white;text-align: center;padding:15px;}
+nav{background-color:MintCream;padding:23px;font-size:18px;text-align: center;}
+article{background-color:Thistle;font-size:18px;text-align: justify;padding:10px;}
+a{display: inline-block;}
+a:hover{background-color: Plum;color:DimGrey;}
+footer {background-color:RebeccaPurple;font-size:16px;color:white;padding: 5px;text-align: center;}
+img{width:100%; margin-left: auto;margin-right: auto}
